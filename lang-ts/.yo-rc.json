@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "none",
+    "githubRepoName": "none",
+    "npmModuleName": "none",
+    "moduleGlobal": "non",
+    "ngModuleName": "NoneModule",
+    "selectorPrefix": "none",
+    "projectTitle": "lang ts",
+    "projectDescription": "none",
+    "authorName": "wtritch"
+  }
+}
