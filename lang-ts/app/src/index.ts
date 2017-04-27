@@ -1,9 +1,5 @@
 
-import Problem1 from "./problem-1";
+import {Problem4} from "./problem-4";
 
-var problem = new Problem1();
+Problem4.bruteForce();
 
-Problem1.bruteForce();
-Problem1.orderedCompositeGenerator();
-Problem1.moddingGenerator();
-Problem1.mathiness();
