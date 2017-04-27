@@ -205,3 +205,5 @@ class ValuedIterator {
         return this.currentValue;
     }
 }
+
+export default Problem3;

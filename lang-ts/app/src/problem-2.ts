@@ -36,8 +36,6 @@ export class Problem2 {
         stopWatch.stop();
         console.log(`Problem 2 brute force: ${total} Time: ${stopWatch.elapsed}ms`);
     }
-
-
 }
 
 /**
@@ -53,3 +51,5 @@ function* fibonacciGenerator(max: number) {
         values.push(values.shift() + values[0]);
     }
 }
+
+export default Problem2;
